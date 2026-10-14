@@ -1,0 +1,18 @@
+# Keep the course's MMDetection3D 1.4 stack and NumPy's np.long alias.
+numpy==1.23.5
+opencv-python==4.10.0.84
+mmengine==0.10.7
+mmdet==3.3.0
+nuscenes-devkit==1.2.0
+lyft-dataset-sdk==0.0.8
+numba==0.57.1
+scikit-image==0.21.0
+matplotlib==3.7.5
+packaging==24.1
+jupyterlab
+ipykernel
+open3d
+plyfile
+tensorboard
+trimesh
+pytest

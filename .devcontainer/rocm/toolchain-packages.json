@@ -1,0 +1,99 @@
+[
+  {
+    "name": "comgr",
+    "filename": "pool/main/c/comgr/comgr_2.5.0.50600-67~22.04_amd64.deb",
+    "sha256": "c37f779b02789ab8b8175fad4ba759c40010bb7cfdaf653c9918c21523db067e"
+  },
+  {
+    "name": "hip-dev",
+    "filename": "pool/main/h/hip-dev/hip-dev_5.6.31061.50600-67~22.04_amd64.deb",
+    "sha256": "27a243bdfbc7a070f41cb019d59b3c92d3422817a4faf41054dfebd6125696fd"
+  },
+  {
+    "name": "hip-runtime-amd",
+    "filename": "pool/main/h/hip-runtime-amd/hip-runtime-amd_5.6.31061.50600-67~22.04_amd64.deb",
+    "sha256": "9e57ddd1ad79bb8932745ea83b5ee03df34aa16f13a339a7766ac106f9ba2ab4"
+  },
+  {
+    "name": "hipblas-dev",
+    "filename": "pool/main/h/hipblas-dev/hipblas-dev_1.0.0.50600-67~22.04_amd64.deb",
+    "sha256": "d9e483ef84a94c5e6e0a551a11a5ec54448ec4d075db382ccaf3eefc555f3868"
+  },
+  {
+    "name": "hipcc",
+    "filename": "pool/main/h/hipcc/hipcc_1.0.0.50600-67~22.04_amd64.deb",
+    "sha256": "34e9b10bd79f6c15b5b540a5ebad335cdfba0e862b204e77a32210bf43e58a2a"
+  },
+  {
+    "name": "hipcub-dev",
+    "filename": "pool/main/h/hipcub-dev/hipcub-dev_2.13.1.50600-67~22.04_amd64.deb",
+    "sha256": "d41cadc74e8964bca43b5edc5337266fe71472c0c256605633fd0fc9c011c733"
+  },
+  {
+    "name": "hipsparse-dev",
+    "filename": "pool/main/h/hipsparse-dev/hipsparse-dev_2.3.6.50600-67~22.04_amd64.deb",
+    "sha256": "c2f5dc3e39bdec1ace6d168079a6659990eb34f05ffd9188cb023dedb93facb3"
+  },
+  {
+    "name": "hsa-rocr",
+    "filename": "pool/main/h/hsa-rocr/hsa-rocr_1.9.0.50600-67~22.04_amd64.deb",
+    "sha256": "277b1da60c680fb6a07b739a6da3ea1a38bbd92ac4266787dd89919be0a0fa84"
+  },
+  {
+    "name": "hsa-rocr-dev",
+    "filename": "pool/main/h/hsa-rocr-dev/hsa-rocr-dev_1.9.0.50600-67~22.04_amd64.deb",
+    "sha256": "2471706e131a73e652a384e865a67d1bbd9de40155b55bf3ef277c6253cb9968"
+  },
+  {
+    "name": "hsakmt-roct-dev",
+    "filename": "pool/main/h/hsakmt-roct-dev/hsakmt-roct-dev_20230421.1.8.50600-67~22.04_amd64.deb",
+    "sha256": "693446c81671dd05378e4a0dc405a0a4cc0cd9a4bca27cb53cf987f6eee1de29"
+  },
+  {
+    "name": "rocm-core",
+    "filename": "pool/main/r/rocm-core/rocm-core_5.6.0.50600-67~22.04_amd64.deb",
+    "sha256": "b3aa409ca50633a733c9f4a241320c7b87307a2d57e6aa6729d1b3ffefbc8a7a"
+  },
+  {
+    "name": "rocm-device-libs",
+    "filename": "pool/main/r/rocm-device-libs/rocm-device-libs_1.0.0.50600-67~22.04_amd64.deb",
+    "sha256": "6e34a23e984db51d453729492acc0f487de487505e9e609eaa3015004d1294a2"
+  },
+  {
+    "name": "rocm-llvm",
+    "filename": "pool/main/r/rocm-llvm/rocm-llvm_16.0.0.23243.50600-67~22.04_amd64.deb",
+    "sha256": "c33d3990d865ec278b4f2038bc262bb9a6c1b21b258d4030eaa4f0b83005fe7f"
+  },
+  {
+    "name": "rocminfo",
+    "filename": "pool/main/r/rocminfo/rocminfo_1.0.0.50600-67~22.04_amd64.deb",
+    "sha256": "db6756e396b2fcd6a5d75317c14db6c908b293b9bfae16c7795ad80d385e149b"
+  },
+  {
+    "name": "rocprim-dev",
+    "filename": "pool/main/r/rocprim-dev/rocprim-dev_2.13.0.50600-67~22.04_amd64.deb",
+    "sha256": "e2c1c92f1634e42d72d5b978e0549c1a6ce5c5f9996a2cf612c44afcbb743fd8"
+  },
+  {
+    "name": "rocrand-dev",
+    "filename": "pool/main/r/rocrand-dev/rocrand-dev_2.10.17.50600-67~22.04_amd64.deb",
+    "sha256": "eab990b8cf0e526dbc09b25f5694234fabd499dcf488cb58e6ebfbdb75f7687f"
+  },
+  {
+    "name": "rocthrust-dev",
+    "filename": "pool/main/r/rocthrust-dev/rocthrust-dev_2.18.0.50600-67~22.04_amd64.deb",
+    "sha256": "a6d7bc1fee6943d61242fd6a07e2550f4d3c2cb4f3ec16f389d3421078d8ba46"
+  },
+  {
+    "name": "libxml2",
+    "filename": "pool/main/libx/libxml2/libxml2_2.9.13+dfsg-1ubuntu0.14_amd64.deb",
+    "sha256": "16e395b2c52d6ab232053468febc69f0876956ec2fae357a941a2a8dab36574f",
+    "base_url": "https://archive.ubuntu.com/ubuntu/"
+  },
+  {
+    "name": "libicu70",
+    "filename": "pool/main/i/icu/libicu70_70.1-2_amd64.deb",
+    "sha256": "58a154f6307289813da2276f900498ef536ae7c0522d2cf31a3c3c5cf62dfd9a",
+    "base_url": "https://archive.ubuntu.com/ubuntu/"
+  }
+]
