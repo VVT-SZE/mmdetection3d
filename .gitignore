@@ -121,6 +121,10 @@ exps/
 *~
 mmdet3d/.mim
 
+# notebooks/centerpoint_devcontainer.ipynb futásidőben generálja ezt a configot
+# (training_cfg.dump(...)); ne commitoljuk, mert minden futásnál újra előáll.
+configs/centerpoint/centerpoint_pillar02_nuscenes_mini_custom.py
+
 # Pytorch
 *.pth
 
